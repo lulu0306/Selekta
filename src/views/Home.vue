@@ -1,16 +1,8 @@
 <template>
 <div class="home-container">
 <div class="carousel-container"> 
-<v-row >  
-    <v-col  
-        cols="12"
-        lg="8" 
-        md="8"
-        sm="12"
-        xs="12"
-        class="pr-0"
-    >
     <v-carousel
+        hide-delimiters
         height="441"
         cycle 
         :show-arrows="false"
@@ -22,11 +14,7 @@
         <v-img :src="slide.src" height="441"/>
         </v-carousel-item>
     </v-carousel> 
-    </v-col>
-    <v-col class="pl-0" cols="12" lg="4"  md="4" sm="6"  xs="12">
-    <v-img :src="require('../assets/c1.jpeg')"  width="auto" height="441px"/>
-    </v-col>
-</v-row>
+    <img :src="require('../assets/c1.jpeg')" class="carousel-img"  width="470" height="441px"/>
 </div>
 <section>
 <h2>Mas que un Minimarket</h2>
@@ -42,7 +30,7 @@ cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est la
 >
 <v-img
 height="auto"
-:src="require('../assets/prom2.jpeg')"
+:src="require('../assets/promociones/prom2.jpeg')"
 ></v-img>
 <v-card-title>Promocion 1</v-card-title>
 <div class="grey--text ml-4">Descripcion de Promocion de producto 1.</div>
@@ -66,7 +54,7 @@ max-width="374"
 >
 <v-img
 height="auto"
-:src="require('../assets/prom3.jpeg')"
+:src="require('../assets/promociones/prom3.jpeg')"
 ></v-img>
 <v-card-title>Promocion 2</v-card-title>
 <div class="grey--text ml-4">Descripcion de Promocion de producto 1.</div>
@@ -90,7 +78,7 @@ max-width="374"
 >
 <v-img
 height="auto"
-:src="require('../assets/prom4.jpeg')"
+:src="require('../assets/promociones/prom4.jpeg')"
 ></v-img>
 <v-card-title>Promocion 3</v-card-title>
 <div class="grey--text ml-4">Descripcion de Promocion de producto 1.</div>
@@ -123,7 +111,7 @@ data: () => ({
     slides: [
     {src:require('../assets/c2.jpeg')},
     {src:require('../assets/list.jpeg')},
-    {src:require('../assets/prom2.jpeg')},
+    {src:require('../assets/promociones/prom2.jpeg')},
     ]
 })  
 
@@ -134,8 +122,40 @@ data: () => ({
     margin:3rem !important;
 }
 
-img.responsive{
-    height: 441px;
-    width: 100%;
+.carousel-container{
+    display: flex;
+    flex-direction: row;
 }
+
+@media only screen and (max-width: 575px){
+img.carousel-img{
+    display: none;
+}
+}
+
+@media only screen and (min-width: 576px){
+img.carousel-img{
+    display: none;
+}
+}
+
+@media only screen and (min-width: 778px) {  
+img.carousel-img{
+    display: flex;
+    width: 330px;
+}
+}
+
+@media only screen and (min-width: 992px) {  
+img.carousel-img{
+    width: 390px;
+}
+}
+
+@media only screen and (min-width: 1200px){
+img.carousel-img{
+    width: 441px;
+}   
+}
+
 </style>

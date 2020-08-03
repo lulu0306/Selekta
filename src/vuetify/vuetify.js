@@ -19,6 +19,12 @@ export default new Vuetify({
         success: '#4CAF50',
         warning: '#FFC107'
         }
+    },
+    icons:{
+    iconfont: 'mdi',
+    values: {
+        close: 'mdi-close',
+    }
     }
     }
 })
