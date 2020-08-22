@@ -15,7 +15,7 @@
             <v-card 
                 class="ma-1"
                 >
-                <v-img height="233"  :src="require('../assets/frutas/manzana-chile.png')"></v-img>
+                <v-img height="260"  :src="require('../assets/frutas/manzana-chile.png')"></v-img>
                         <!-- <v-divider></v-divider> -->
                 <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
                 </v-card>  
@@ -29,7 +29,7 @@
                 <v-card 
                 class="ma-1"
                 >
-                <v-img height="233" :src="require('../assets/frutas/manzana-delicia.png')" class="card-resize"></v-img>
+                <v-img height="260" :src="require('../assets/frutas/manzana-delicia.png')" class="card-resize"></v-img>
                         <!-- <v-divider></v-divider> -->
                 <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
                 </v-card>  
@@ -43,7 +43,7 @@
                 <v-card 
                 class="ma-1"
                 >
-                <v-img height="233" :src="require('../assets/frutas/manzana-perita.png')"></v-img>
+                <v-img height="260" :src="require('../assets/frutas/manzana-perita.png')"></v-img>
                         <!-- <v-divider></v-divider> -->
                 <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
                 </v-card>  
@@ -57,7 +57,7 @@
                 <v-card 
                 class="ma-1"
                 >
-                <v-img height="233" :src="require('../assets/frutas/manzana-royal.png')"></v-img>
+                <v-img height="260" :src="require('../assets/frutas/manzana-royal.png')"></v-img>
                         <!-- <v-divider></v-divider> -->
                 <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
                 </v-card> 
@@ -72,7 +72,7 @@
                 class="ma-1"
                 >
                 <div class="pa-1">
-                <v-img height="233" :src="require('../assets/frutas/manzana-verde.png')"></v-img>
+                <v-img height="260" :src="require('../assets/frutas/manzana-verde.png')"></v-img>
                 </div>       <!-- <v-divider></v-divider> -->
                 <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
                 </v-card> 
@@ -93,7 +93,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/pera.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/pera.png')"></v-img>
                         <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -114,7 +114,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/membrillo.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/membrillo.png')"></v-img>
                         <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -128,7 +128,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/guayaba.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/guayaba.png')"></v-img>
                         <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -149,7 +149,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/platano-seda.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/platano-seda.png')"></v-img>
                         <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -163,7 +163,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/platano-bizcocho.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/platano-bizcocho.png')"></v-img>
                         <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -177,7 +177,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/platano-organico.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/platano-organico.png')"></v-img>
                         <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -198,7 +198,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/mango-chico.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/mango-chico.png')"></v-img>
                         <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -212,7 +212,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/mango-edward.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/mango-edward.png')"></v-img>
                         <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -235,7 +235,7 @@
     class="ma-1"
     >
     <div class="pa-1">
-    <v-img height="233"  :src="require('../assets/frutas/naranja-huando.png')"></v-img>
+    <v-img height="260"  :src="require('../assets/frutas/naranja-huando.png')"></v-img>
     </div>               <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -249,7 +249,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/naranja-de-jugo.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/naranja-de-jugo.png')"></v-img>
     <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -263,7 +263,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/naranja-tangelo.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/naranja-tangelo.png')"></v-img>
     <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -284,7 +284,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/durazno.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/durazno.png')"></v-img>
                         <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -298,7 +298,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/durazno-blanco.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/durazno-blanco.png')"></v-img>
     <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -320,7 +320,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/cocona.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/cocona.png')"></v-img>
                         <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -334,7 +334,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/tumbo.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/tumbo.png')"></v-img>
     <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -356,7 +356,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/mandarina.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/mandarina.png')"></v-img>
                         <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -370,7 +370,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/lima.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/lima.png')"></v-img>
     <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -392,7 +392,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/pina.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/pina.png')"></v-img>
                         <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -414,7 +414,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/maracuya.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/maracuya.png')"></v-img>
                         <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -428,7 +428,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/granadilla.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/granadilla.png')"></v-img>
     <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -450,7 +450,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/tuna.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/tuna.png')"></v-img>
                         <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -464,7 +464,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/tuna-roja.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/tuna-roja.png')"></v-img>
     <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -486,7 +486,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/uvas-blancas.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/uvas-blancas.png')"></v-img>
                         <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -500,7 +500,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/uvas-rojas.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/uvas-rojas.png')"></v-img>
     <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -522,7 +522,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/ciruela-blanca.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/ciruela-blanca.png')"></v-img>
                         <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -536,7 +536,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/ciruela-roja.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/ciruela-roja.png')"></v-img>
     <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -558,7 +558,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/aguaymanto.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/aguaymanto.png')"></v-img>
                         <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -572,7 +572,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/carambola.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/carambola.png')"></v-img>
     <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
@@ -594,7 +594,7 @@
     <v-card 
     class="ma-1"
     >
-    <v-img height="233" :src="require('../assets/frutas/pepino.png')"></v-img>
+    <v-img height="260" :src="require('../assets/frutas/pepino.png')"></v-img>
                         <!-- <v-divider></v-divider> -->
     <v-img  height="auto" :src="require('../assets/frutas/verduras-footer.png')"></v-img>
     </v-card> 
