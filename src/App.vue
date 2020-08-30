@@ -8,7 +8,7 @@
       class="over-menu"
     >
     <div class="logo" >
-    <img :src="require('./assets/logo.jpeg')">
+    <img :src="require('./assets/new-logo.jpeg')">
     </div>
     <div>
     <v-btn text to="/" exact style="margin-right:10px;">Home</v-btn>
